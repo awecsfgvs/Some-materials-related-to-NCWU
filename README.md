@@ -1,2 +1,2 @@
 # Some-materials-related-to-NCWU
-useful to me.
+Useful for myself.And hope can help any others.
